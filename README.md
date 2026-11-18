@@ -4,3 +4,4 @@ Push rejected? Accept the invite.
 
 Minimal template used to verify the GitHub cycle: a test, a `grade` workflow, protected `main`.
 test2
+Fix SLOT-101
